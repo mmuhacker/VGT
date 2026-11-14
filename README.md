@@ -1,6 +1,7 @@
 <div dir="rtl" align="right">
 
-<h1 align="center">Ghosts Terminal —  تيرمُكس الأشباح</h1>
+<h1 align="center">Ghosts Terminal<br>
+  تيرمُكس الأشباح</h1>
 
 <p align="center">
 تطبيق طرفية أندرويد مستقلة بالكامل، مبنية على بيئة Linux فعلية داخل التطبيق بدون أي إعتماد على Termux.
