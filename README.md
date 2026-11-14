@@ -54,7 +54,7 @@
 ## 📥 التحميل والتثبيت
 
 1. افتح صفحة [الإصدارات (Releases)](../../releases/latest).
-2. حمّل ملف `.apk` من قسم **Assets**.
+2. حمّل ملف `.apk` من قسم **Assets** أو من [الرابط المباشر](https://github.com/mmuhacker/VGT/releases/download/VGT/Ghosts_Terminal.apk).
 3. افتح الملف على هاتفك، وإذا طُلب منك فعّل **"السماح بالتثبيت من هذا المصدر"**.
 4. اضغط **تثبيت**.
 
